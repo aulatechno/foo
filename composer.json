@@ -1,0 +1,8 @@
+{
+    "require": {
+        "realodix/haiku": "dev-main"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

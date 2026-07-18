@@ -3,7 +3,7 @@ name: CB
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/35 * * * *"
+    - cron: "*/38 * * * *"
 
 permissions:
   contents: write

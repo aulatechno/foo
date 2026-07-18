@@ -3,7 +3,7 @@ name: CA
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/40 * * * *"
+    - cron: "*/43 * * * *"
 
 permissions:
   contents: write

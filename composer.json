@@ -1,6 +1,10 @@
 {
     "require": {
-        "realodix/haiku": "dev-main"
+        "realodix/change-case": "dev-main",
+        "realodix/haiku": "dev-main",
+        "realodix/readtime": "dev-main",
+        "realodix/relax": "dev-main",
+        "realodix/timezone": "dev-main"
     },
     "config": {
         "sort-packages": true

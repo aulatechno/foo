@@ -1,6 +1,6 @@
 {
     "require": {
-        "realodix/haiku": "dev-main"
+        "realodix/haiku": "^1.13"
     },
     "config": {
         "sort-packages": true
